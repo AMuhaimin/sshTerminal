@@ -1,0 +1,13 @@
+D:\Apps Module\Linux\SSH Terminal\Terminal\bin\Debug\Terminal.exe.config
+D:\Apps Module\Linux\SSH Terminal\Terminal\bin\Debug\Terminal.exe
+D:\Apps Module\Linux\SSH Terminal\Terminal\bin\Debug\Terminal.pdb
+D:\Apps Module\Linux\SSH Terminal\Terminal\bin\Debug\Renci.SshNet.dll
+D:\Apps Module\Linux\SSH Terminal\Terminal\bin\Debug\Renci.SshNet.xml
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.csprojResolveAssemblyReference.cache
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.Cache
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.csproj.CoreCompileInputs.cache
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.exe
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.pdb
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.Main.resources
+D:\Apps Module\Linux\SSH Terminal\Terminal\obj\Debug\Terminal.About.resources
