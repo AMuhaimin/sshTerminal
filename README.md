@@ -1,2 +1,2 @@
 # sshTerminal
-Simple SSH Terminal that can be integrated to c#
+Simple SSH Terminal dari c#
